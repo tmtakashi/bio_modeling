@@ -1,2 +1,1 @@
-# bio_modeling
-# bio_modeling
+# 生物モデリング特論
